@@ -1,30 +1,39 @@
 # PRASAD MARNE
-Kawasaki, Japan|praddymarne@gmail.com| https://stackoverflow.com/users/8402502/traflaw|https://github.com/prasad-marne 
+Kawasaki, Japan|praddymarne@gmail.com| https://stackoverflow.com/users/8402502/traflaw |https://github.com/prasad-marne 
 
 ## Education
 Bachelor in computer engineering from Pune Institute of Computer Technology (Pune University, India) / June 2012 - June 2016
 
 ## Skills
-Languages/Technologies: Proficient in Java, Golang, C++; familiar with Python, Rust, C, Groovy;  
-Experience with Kubernetes, Elasticsearch, Grpc, Gin, Spring Framework, Protobuf, Rx Java, Hibernate, Data JPA, Oracle database, MongoDB, BigTable,  
-				Spanner, Redis, Rabbit MQ, Maven, Jenkins, Docker, cloud foundry, Android, GCP Dataflow  
+Languages/Technologies: Proficient in Golang, Python, Java; familiar with Scala, Swift, C++, Rust, C, Groovy;  
+Experience with Jupiter Notebook, Dataflow, Airflow, Apache Beam, Protobuf, Spring Framework, Hibernate, Data JPA, iOS Development;  
+Databases: BigQuery, Spanner, BigTable, DataStore, Redis, Oracle, MongoDB;  
+Infrastructure: Kubernetes, Elasticsearch, Circle CI, Cloud Build, Jenkins, Docker, Cloud foundry;  
 
 ## Work Experience
+### City Digital Inc, Tokyo (Freelance)
+Software Engineer
+Primary role: June 2019 - Present  
+• Design and develop Backend API using Golang, Grpc, Protobuf  
+• Design and develop KPI acquistion and management system.
+
 
 ### Mercari Inc, Tokyo
-Search Engineer  
+Search Engineer/Data scientist  
 Primary role: Sept 2018 - Present  
 • Design and develop Search API using Golang, Grpc, Protobuf  
 • Design and develop Data pipeline using GCP Dataflow, Apache Beam, Spotify Scio  
-• Management of Elasticsearch cluster using Kuberenetes  
+• Design and conduct statistical Experiments for Evaluation of new features
 
 Searchx Project:  
 • Design and develop mercari search system from scratch  
-• Develop ranking and quality improvement systems like tokenizers, analyzers, ranking system and interleaving system  
+• Develop ranking and quality improvement systems like ranking system, click log based models, click log analysis;  
+• Develop Metrics and Evaluation Framework: Implement Interleaving system for Online Experimentation and Evaluation,
+CrowdSourcing for Offline Evaluation of Models
 
 
 ### Rakuten Travel, Tokyo
-Software Engineer| Backend Team  
+Software Engineer
 Primary role: Oct 2016 – Sept 2018  
 • Design and develop Restful API’s for Rakuten Travel platform.  
 • Responsible for development of travel internal tools and frameworks like Spring Boot, Spring Cloud Config, CI/CD pipelines  
@@ -49,6 +58,10 @@ Co-founder |Android Developer June - Oct. 2016
 
 
 ## Personal Projects
+### AND search engine
+• Develop very lightweight search engine with in-memory index and search using AND query
+### AR gift card  
+• Created gift card app using ARKit library of iOS. It should animation for gift cards
 ### VR car game
 • Inspired by Volvo XC90 VR Test Drive using Google Cardboard we created a VR car game where you can drive the car around a city using motion or Just enjoy the ride in AI controlled car. City was created in Unity 3D  
 • Developed using Google Cardboard SDK for unity3D. AI pathfinding was done using A* Algorithm Rust OS  
