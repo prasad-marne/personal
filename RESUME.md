@@ -1,5 +1,5 @@
 # PRASAD MARNE
-Kawasaki, Japan|praddymarne@gmail.com| https://stackoverflow.com/users/8402502/traflaw |https://github.com/prasad-marne 
+Kawasaki, Japan|praddymarne@gmail.com|   https://stackoverflow.com/users/8402502/traflaw |  https://github.com/prasad-marne 
 
 ## Education
 Bachelor in computer engineering from Pune Institute of Computer Technology (Pune University, India) / June 2012 - June 2016
@@ -29,7 +29,6 @@ CrowdSourcing for Offline Evaluation
 Query Auto Completion Project:  
 • Design and develop Query Auto Complete system  
 • Analysis Keywords using historical Data analysis  
-
 
 
 ### City Digital Inc, Tokyo (Freelance)
@@ -74,5 +73,4 @@ Co-founder |Android Developer June - Oct. 2016
 • Inspired by Volvo XC90 VR Test Drive using Google Cardboard we created a VR car game where you can drive the car around a city using motion or Just enjoy the ride in AI controlled car. City was created in Unity 3D  
 • Developed using Google Cardboard SDK for unity3D. AI pathfinding was done using A* Algorithm Rust OS  
 ### Squid OS in Rust
-• Developed an Operating System in Rust programming language with guidance from OSDev wiki and various blog about OS in Rust. Created a Rust module that provides interface to VGA text buffer.
-          
+• Developed an Operating System in Rust programming language with guidance from OSDev wiki and various blog about OS in Rust. Created a Rust module that provides interface to VGA text buffer.  
