@@ -5,31 +5,39 @@ Kawasaki, Japan|praddymarne@gmail.com| https://stackoverflow.com/users/8402502/t
 Bachelor in computer engineering from Pune Institute of Computer Technology (Pune University, India) / June 2012 - June 2016
 
 ## Skills
-Languages/Technologies: Proficient in Golang, Python, Java; familiar with Scala, Swift, C++, Rust, C, Groovy;  
-Experience with Jupiter Notebook, Dataflow, Airflow, Apache Beam, Protobuf, Spring Framework, Hibernate, Data JPA, iOS Development;  
-Databases: BigQuery, Spanner, BigTable, DataStore, Redis, Oracle, MongoDB;  
+Languages/Technologies: Proficient in Golang, Python, Java; familiar with Scala, Swift, C++, Rust;  
+Experience with Dataflow, Airflow, Apache Beam, Protobuf, Spring Framework, Hibernate, Data JPA, iOS Development;  
+Databases: BigQuery, Spanner, BigTable, DataStore, Redis, Oracle;  
 Infrastructure: Kubernetes, Elasticsearch, Circle CI, Cloud Build, Jenkins, Docker, Cloud foundry;  
 
 ## Work Experience
-### City Digital Inc, Tokyo (Freelance)
-Software Engineer
-Primary role: June 2019 - Present  
-• Design and develop Backend API using Golang, Grpc, Protobuf  
-• Design and develop KPI acquistion and management system.
 
 
 ### Mercari Inc, Tokyo
 Search Engineer/Data scientist  
 Primary role: Sept 2018 - Present  
 • Design and develop Search API using Golang, Grpc, Protobuf  
-• Design and develop Data pipeline using GCP Dataflow, Apache Beam, Spotify Scio  
+• Design and develop Data pipeline using GCP Airflow, Dataflow, Apache Beam, Spotify Scio  
 • Design and conduct statistical Experiments for Evaluation of new features
 
 Searchx Project:  
-• Design and develop mercari search system from scratch  
+• Design and develop Search system
 • Develop ranking and quality improvement systems like ranking system, click log based models, click log analysis;  
-• Develop Metrics and Evaluation Framework: Implement Interleaving system for Online Experimentation and Evaluation,
-CrowdSourcing for Offline Evaluation of Models
+• Develop Metrics and Evaluation Framework: Interleaving & A/B testing System for Online Experimentation and Evaluation,
+CrowdSourcing for Offline Evaluation
+
+Query Auto Completion Project:  
+• Design and develop Query Auto Complete system  
+• Analysis Keywords using historical Data analysis  
+
+
+
+### City Digital Inc, Tokyo (Freelance)
+Search Engineer/Data Scientist  
+Primary role: June 2019 - Present  
+• Design and develop Backend API using Golang, Grpc, Protobuf  
+• Design and develop KPI acquistion and management system using Airflow, Data Studio, BiqQuery, Apache Beam
+• Design and develop search system and work on search improvement
 
 
 ### Rakuten Travel, Tokyo
@@ -65,6 +73,6 @@ Co-founder |Android Developer June - Oct. 2016
 ### VR car game
 • Inspired by Volvo XC90 VR Test Drive using Google Cardboard we created a VR car game where you can drive the car around a city using motion or Just enjoy the ride in AI controlled car. City was created in Unity 3D  
 • Developed using Google Cardboard SDK for unity3D. AI pathfinding was done using A* Algorithm Rust OS  
-### Rust OS
+### Squid OS in Rust
 • Developed an Operating System in Rust programming language with guidance from OSDev wiki and various blog about OS in Rust. Created a Rust module that provides interface to VGA text buffer.
           
