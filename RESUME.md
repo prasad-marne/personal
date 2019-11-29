@@ -8,7 +8,7 @@ Bachelor in computer engineering from Pune Institute of Computer Technology (Pun
 Languages/Technologies: Proficient in Golang, Python, Java; familiar with Scala, Swift, C++, Rust;  
 Experience with Dataflow, Airflow, Apache Beam, Protobuf, Spring Framework, Hibernate, Data JPA, iOS Development;  
 Databases: BigQuery, Spanner, BigTable, DataStore, Redis, Oracle;  
-Infrastructure: Kubernetes, Elasticsearch, Circle CI, Cloud Build, Jenkins, Docker, Cloud foundry;  
+Infrastructure: Kubernetes, Elasticsearch, Solr, Terraform, Skaffold, helm, Jenkins, Cloud foundry;  
 
 ## Work Experience
 
@@ -22,13 +22,15 @@ Primary role: Sept 2018 - Present
 
 Searchx Project:  
 • Design and develop Search system
-• Develop ranking and quality improvement systems like ranking system, click log based models, click log analysis;  
+• Develop ranking and quality improvement systems like Learning to Ranking system, click log based models, click log analysis  
 • Develop Metrics and Evaluation Framework: Interleaving & A/B testing System for Online Experimentation and Evaluation,
-CrowdSourcing for Offline Evaluation
+CrowdSourcing for Offline Evaluation  
+• Query Performance Improvement: Improve Elastic query and schema for increasing performance of slow queries. Improve client connection management   
+
 
 Query Auto Completion Project:  
-• Design and develop Query Auto Complete system  
-• Analysis Keywords using historical Data analysis  
+• Design and develop Query Auto Complete system 
+• Analysize Keywords using click modeling
 
 
 ### City Digital Inc, Tokyo (Freelance)
