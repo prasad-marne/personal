@@ -79,6 +79,6 @@ Co-founder |Android Developer June - Oct. 2016
 • Created gift card app using ARKit library of iOS. It should animation for gift cards
 ### VR car game
 • Inspired by Volvo XC90 VR Test Drive using Google Cardboard we created a VR car game where you can drive the car around a city using motion or Just enjoy the ride in AI controlled car. City was created in Unity 3D  
-• Developed using Google Cardboard SDK for unity3D. AI pathfinding was done using A* Algorithm Rust OS  
+• Developed using Google Cardboard SDK for unity3D. AI pathfinding was done using A* Algorithm.
 ### Squid OS in Rust
 • Developed an Operating System in Rust programming language with guidance from OSDev wiki and various blog about OS in Rust. Created a Rust module that provides interface to VGA text buffer.  
