@@ -1,40 +1,48 @@
 # PRASAD MARNE
-Kawasaki, Japan|praddymarne@gmail.com|   https://stackoverflow.com/users/8402502/traflaw |  https://github.com/prasad-marne 
+Tokyo, Japan|praddymarne@gmail.com|   https://stackoverflow.com/users/8402502/traflaw |  https://github.com/prasad-marne 
 
 ## Education
 Bachelor in computer engineering from Pune Institute of Computer Technology (Pune University, India) / June 2012 - June 2016
 
 ## Skills
 Languages/Technologies: Proficient in Golang, Python, Java; familiar with Scala, Swift, C++, Rust;  
-Experience with Dataflow, Airflow, Apache Beam, Protobuf, Spring Framework, Hibernate, Data JPA, iOS Development;  
-Databases: BigQuery, Spanner, BigTable, DataStore, Redis, Oracle;  
+Experience with Google Cloud Dataflow, Airflow, Apache Beam, Tensorflow, Spring Framework;  
+Databases: BigQuery, Spanner, BigTable, Redis, Oracle;  
 Infrastructure: Kubernetes, Elasticsearch, Solr, Terraform, Skaffold, helm, Jenkins, Cloud foundry;  
 
 ## Work Experience
 
 
 ### Mercari Inc, Tokyo
-Search Engineer/Data scientist  
+AI Engineer(Search and Recommendations): 
 Primary role: Sept 2018 - Present  
-• Design and develop Search API using Golang, Grpc, Protobuf  
-• Design and develop Data pipeline using GCP Airflow, Dataflow, Apache Beam, Spotify Scio  
-• Design and conduct statistical Experiments for Evaluation of new features
+• Search Platform and Search API  (Elasticsearch, Golang, Grpc, Protobuf)
+• Search ETL pipelines (GCP Airflow, Dataflow, Apache Beam, Spotify Scio, Java) 
+• Search Algorithmic improvements: Boosting, Query Expansion, Query Reformulations (Python, BigQuery)
+• Conduting A/B testing and Statistical Experiments for Evaluation of new features (Python, BigQuery)
 
 Searchx Project:  
-• Design and develop Search system
-• Develop ranking and quality improvement systems like Learning to Ranking system, click log based models, click log analysis  
-• Develop Metrics and Evaluation Framework: Interleaving & A/B testing System for Online Experimentation and Evaluation,
-CrowdSourcing for Offline Evaluation  
-• Query Performance Improvement: Improve Elastic query and schema for increasing performance of slow queries. Improve client connection management   
-
+• Search Infrastructure Development: (Elasticsearch, Kubernetes)
+• Ranking systems Development: Learning to Ranking system, click log based models, click log analysis (Python, BigQuery)
+• Evaluation System Development:  A/B testing, Interleaving, CrowdSourcing, Conterfactuals Evaluation (Python, BigQuery)
+• Performance Improvement Development: Query Performance (Gatling) 
 
 Query Auto Completion Project:  
-• Design and develop Query Auto Complete system 
-• Analysize Keywords using click modeling
+• Design and Develop Query Auto Complete system (Solr, Golang, BigQuery)
+• Analysize Keywords using click modeling (BigQuery)
+
+Fashion Search:
+• Fashion search Development: (Elasticsearch, Golang)
+• Implement Vector Search System (Elasticsearch, Tensorflow)
+• Outfit and co-ordinate Search System (Elasticsearch)
+
+Fashion Recommendations:
+• Fashion Recommendationsrch Development: Batch System (Airflow), Model Training (Kubernetes)
+• Recommendation Algorithm (Python, Tensorflow)
 
 
 ### City Digital Inc, Tokyo (Freelance)
-Search Engineer/Data Scientist  
+Search Engineer/Data Analyst
 Primary role: June 2019 - Present  
 • Design and develop Backend API using Golang, Grpc, Protobuf  
 • Design and develop KPI acquistion and management system using Airflow, Data Studio, BiqQuery, Apache Beam
@@ -44,21 +52,19 @@ Primary role: June 2019 - Present
 ### Rakuten Travel, Tokyo
 Software Engineer
 Primary role: Oct 2016 – Sept 2018  
-• Design and develop Restful API’s for Rakuten Travel platform.  
+• Design and develop Restful API’s for Rakuten Travel platform. (Java, Spring Boot) 
 • Responsible for development of travel internal tools and frameworks like Spring Boot, Spring Cloud Config, CI/CD pipelines  
 Next Stage Project:  
-• Design and develop completely new platform for Rakuten Travel  
-• Migrate from monolithic architecture to micro services, Develop services with a focus on clean code, performance andscalability  
+• Design and develop completely new platform for Rakuten Travel from stratch.
+• Migrate from monolithic architecture to micro services, Develop services with a focus on clean code, performance and scalability  
 • Migrate from manual script based deployment to automated CI/CD pipelines  
 CI/CD project:  
-• Developed CI/CD pipelines using Jenkins Pipeline.  
-• Created a system that is being used by various products across multiple teams. API Gateway Automation Project:  
+• Developed CI/CD pipelines using Jenkins Pipelines.  
+• Created a system that is being used by various products across multiple teams.  
+API Gateway Automation Project:  
 • Develop automated system to register API’s on Kong API Gateway from API documentation  
 • Reduces cost of manual registration and maintenance of API’s on Kong API gateway Integration Testing library:  
 • Develop an Integration testing library on top of Spock Testing Framework. Run test based on created scenarios  
-• Reduces cost of boilerplate code need to setup various configuration during IT testing Rakuten Technology conference 2017:  
-• I volunteered to developed the website for Rakuten Tech conference 2017(https://tech.rakuten.co.jp ).  
-• We developed a website based on a template. We used Bootstrap, JS, HTML, CSS.  
 
 ### Newsify, Pune  
 Co-founder |Android Developer June - Oct. 2016  
