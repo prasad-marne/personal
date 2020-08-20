@@ -14,48 +14,48 @@ Infrastructure: Kubernetes, Elasticsearch, Solr, Terraform, Skaffold, helm, Jenk
 
 
 ### Mercari Inc, Tokyo
-AI Engineer(Search and Recommendations): 
+AI Engineer(Search and Recommendations):   
 Primary role: Sept 2018 - Present  
-• Search Platform and Search API  (Elasticsearch, Golang, Grpc, Protobuf)
-• Search ETL pipelines (GCP Airflow, Dataflow, Apache Beam, Spotify Scio, Java) 
-• Search Algorithmic improvements: Boosting, Query Expansion, Query Reformulations (Python, BigQuery)
-• Conduting A/B testing and Statistical Experiments for Evaluation of new features (Python, BigQuery)
+• Search Platform and Search API  (Elasticsearch, Golang, Grpc, Protobuf)  
+• Search ETL pipelines (GCP Airflow, Dataflow, Apache Beam, Spotify Scio, Java)   
+• Search Algorithmic improvements: Boosting, Query Expansion, Query Reformulations (Python, BigQuery)  
+• Conduting A/B testing and Statistical Experiments for Evaluation of new features (Python, BigQuery)  
 
 Searchx Project:  
-• Search Infrastructure Development: (Elasticsearch, Kubernetes)
-• Ranking systems Development: Learning to Ranking system, click log based models, click log analysis (Python, BigQuery)
-• Evaluation System Development:  A/B testing, Interleaving, CrowdSourcing, Conterfactuals Evaluation (Python, BigQuery)
-• Performance Improvement Development: Query Performance (Gatling) 
+• Search Infrastructure Development: (Elasticsearch, Kubernetes)  
+• Ranking systems Development: Learning to Ranking system, click log based models, click log analysis (Python, BigQuery)  
+• Evaluation System Development:  A/B testing, Interleaving, CrowdSourcing, Conterfactuals Evaluation (Python, BigQuery)  
+• Performance Improvement Development: Query Performance (Gatling)   
 
-Query Auto Completion Project:  
-• Design and Develop Query Auto Complete system (Solr, Golang, BigQuery)
-• Analysize Keywords using click modeling (BigQuery)
+Query Auto Completion Project:    
+• Design and Develop Query Auto Complete system (Solr, Golang, BigQuery)  
+• Analysize Keywords using click modeling (BigQuery)  
 
-Fashion Search:
-• Fashion search Development: (Elasticsearch, Golang)
-• Implement Vector Search System (Elasticsearch, Tensorflow)
-• Outfit and co-ordinate Search System (Elasticsearch)
+Fashion Search:  
+• Fashion search Development: (Elasticsearch, Golang)  
+• Implement Vector Search System (Elasticsearch, Tensorflow)  
+• Outfit and co-ordinate Search System (Elasticsearch)  
 
-Fashion Recommendations:
-• Fashion Recommendationsrch Development: Batch System (Airflow), Model Training (Kubernetes)
-• Recommendation Algorithm (Python, Tensorflow)
+Fashion Recommendations:  
+• Fashion Recommendations Development: Batch System (Airflow), Model Training (Kubernetes)  
+• Recommendation Algorithm (Python, Tensorflow)  
 
 
 ### City Digital Inc, Tokyo (Freelance)
-Search Engineer/Data Analyst
+Search Engineer/Data Analyst  
 Primary role: June 2019 - Present  
 • Design and develop Backend API using Golang, Grpc, Protobuf  
-• Design and develop KPI acquistion and management system using Airflow, Data Studio, BiqQuery, Apache Beam
-• Design and develop search system and work on search improvement
+• Design and develop KPI acquistion and management system using Airflow, Data Studio, BiqQuery, Apache Beam  
+• Design and develop search system and work on search improvement  
 
 
 ### Rakuten Travel, Tokyo
-Software Engineer
+Software Engineer  
 Primary role: Oct 2016 – Sept 2018  
 • Design and develop Restful API’s for Rakuten Travel platform. (Java, Spring Boot) 
 • Responsible for development of travel internal tools and frameworks like Spring Boot, Spring Cloud Config, CI/CD pipelines  
 Next Stage Project:  
-• Design and develop completely new platform for Rakuten Travel from stratch.
+• Design and develop completely new platform for Rakuten Travel from stratch.  
 • Migrate from monolithic architecture to micro services, Develop services with a focus on clean code, performance and scalability  
 • Migrate from manual script based deployment to automated CI/CD pipelines  
 CI/CD project:  
@@ -63,7 +63,7 @@ CI/CD project:
 • Created a system that is being used by various products across multiple teams.  
 API Gateway Automation Project:  
 • Develop automated system to register API’s on Kong API Gateway from API documentation  
-• Reduces cost of manual registration and maintenance of API’s on Kong API gateway Integration Testing library:  
+• Reduces cost of manual registration and maintenance of API’s on Kong API gateway Integration Testing library  
 • Develop an Integration testing library on top of Spock Testing Framework. Run test based on created scenarios  
 
 ### Newsify, Pune  
