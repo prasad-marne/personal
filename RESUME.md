@@ -14,10 +14,10 @@ Infrastructure: Kubernetes, Elasticsearch, Solr, Terraform, Skaffold, helm, Jenk
 
 
 ### Mercari Inc, Tokyo
-AI Engineer(Search and Recommendations):   
+Senior Software Engineer (Search and Recommendations):   
 Primary role: Sept 2018 - Present  
 • Search Platform and Search API  (Elasticsearch, Golang, Grpc, Protobuf)  
-• Search ETL pipelines (GCP Airflow, Dataflow, Apache Beam, Spotify Scio, Java)   
+• Search ETL Data pipelines (GCP Airflow, Dataflow, Apache Beam, Spotify Scio, Java)   
 • Search Algorithmic improvements: Boosting, Query Expansion, Query Reformulations (Python, BigQuery)  
 • Conduting A/B testing and Statistical Experiments for Evaluation of new features (Python, BigQuery)  
 
@@ -27,16 +27,19 @@ Searchx Project:
 • Evaluation System Development:  A/B testing, Interleaving, CrowdSourcing, Conterfactuals Evaluation (Python, BigQuery)  
 • Performance Improvement Development: Query Performance (Gatling)   
 
-Query Auto Completion Project:    
+Query Auto Completion Project:  
+• Team Lead (3 members)  
 • Design and Develop Query Auto Complete system (Solr, Golang, BigQuery)  
 • Analysize Keywords using click modeling (BigQuery)  
 
 Fashion Search:  
+• Team Lead (3 members)  
 • Fashion search Development: (Elasticsearch, Golang)  
 • Implement Vector Search System (Elasticsearch, Tensorflow)  
 • Outfit and co-ordinate Search System (Elasticsearch)  
 
 Fashion Recommendations:  
+• Team Lead (3 members)  
 • Fashion Recommendations Development: Batch System (Airflow), Model Training (Kubernetes)  
 • Recommendation Algorithm (Python, Tensorflow)  
 
